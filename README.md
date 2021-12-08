@@ -1,5 +1,5 @@
-<img align="left" alt="R. Leroi's stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rleroi&layout=compact&langs_count=8&theme=cobalt">
-<img align="right" alt="R. Leroi's stats" src="https://github-readme-stats.vercel.app/api?username=rleroi&show_icons=true&theme=cobalt&hide=stars&hide_rank=true&count_private=true">
+<img align="left" style="padding-right:24px" alt="R. Leroi's stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rleroi&layout=compact&langs_count=8&theme=cobalt">
+<img align="left" padding alt="R. Leroi's stats" src="https://github-readme-stats.vercel.app/api?username=rleroi&show_icons=true&theme=cobalt&hide=stars&hide_rank=true&count_private=true">
 
 <!--
 **rleroi/rleroi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
