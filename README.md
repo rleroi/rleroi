@@ -1,1 +1,1 @@
-As a freelance developer, I specialize in Laravel PHP and VueJS while having a strong interest in ensuring top-notch security.
+As a freelance developer, I have a focus on Laravel PHP and VueJS, with a keen interest in maintaining high standards of security.
