@@ -1,1 +1,1 @@
-Freelance PHP developer by day, hacker by night
+Freelance developer by day, hacker by night
